@@ -1,0 +1,52 @@
+2025-01-24 12:57:24,061 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.18.15:5000
+2025-01-24 12:57:24,062 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-24 12:57:24,066 - INFO -  * Restarting with stat
+2025-01-24 12:57:38,631 - WARNING -  * Debugger is active!
+2025-01-24 12:57:38,644 - INFO -  * Debugger PIN: 686-559-611
+2025-01-24 13:00:14,765 - ERROR - Database error: When initializing mapper Mapper[Category(category)], expression 'Report' failed to locate a name ('Report'). If this is a class name, consider adding this relationship() to the <class 'Model.Category.Category'> class after both dependent classes have been defined.
+2025-01-24 13:00:14,768 - INFO - 127.0.0.1 - - [24/Jan/2025 13:00:14] "[35m[1mPOST /detectObjects HTTP/1.1[0m" 500 -
+2025-01-24 13:10:13,156 - INFO -  * Detected change in 'C:\\Users\\PROFESSIONAL\\PycharmProjects\\BackEnd\\Model\\TruckAssignment.py', reloading
+2025-01-24 13:10:16,074 - INFO -  * Restarting with stat
+2025-01-24 13:10:36,359 - WARNING -  * Debugger is active!
+2025-01-24 13:10:36,370 - INFO -  * Debugger PIN: 686-559-611
+2025-01-24 13:15:19,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.18.15:5000
+2025-01-24 13:15:19,807 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-24 13:15:19,810 - INFO -  * Restarting with stat
+2025-01-24 13:15:30,794 - WARNING -  * Debugger is active!
+2025-01-24 13:15:30,808 - INFO -  * Debugger PIN: 686-559-611
+2025-01-24 13:15:49,546 - ERROR - Database error: When initializing mapper Mapper[Category(category)], expression 'Report' failed to locate a name ('Report'). If this is a class name, consider adding this relationship() to the <class 'Model.Category.Category'> class after both dependent classes have been defined.
+2025-01-24 13:15:49,548 - INFO - 127.0.0.1 - - [24/Jan/2025 13:15:49] "[35m[1mPOST /detectObjects HTTP/1.1[0m" 500 -
+2025-01-24 13:17:28,409 - INFO -  * Detected change in 'C:\\Users\\PROFESSIONAL\\PycharmProjects\\BackEnd\\Controller\\DetectionController.py', reloading
+2025-01-24 13:17:30,041 - INFO -  * Restarting with stat
+2025-01-24 13:17:57,390 - WARNING -  * Debugger is active!
+2025-01-24 13:17:57,404 - INFO -  * Debugger PIN: 686-559-611
+2025-01-24 13:18:06,351 - ERROR - Database error: When initializing mapper Mapper[Category(category)], expression 'Report' failed to locate a name ('Report'). If this is a class name, consider adding this relationship() to the <class 'Model.Category.Category'> class after both dependent classes have been defined.
+2025-01-24 13:18:06,353 - INFO - 127.0.0.1 - - [24/Jan/2025 13:18:06] "[35m[1mPOST /detectObjects HTTP/1.1[0m" 500 -
+2025-01-24 21:04:28,302 - INFO -  * Detected change in 'C:\\Users\\PROFESSIONAL\\PycharmProjects\\BackEnd\\Model\\TrashItems.py', reloading
+2025-01-24 21:04:30,574 - INFO -  * Restarting with stat
+2025-01-24 21:12:59,475 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.10.11:5000
+2025-01-24 21:12:59,476 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-24 21:12:59,478 - INFO -  * Restarting with stat
+2025-01-24 21:13:05,960 - WARNING -  * Debugger is active!
+2025-01-24 21:13:05,966 - INFO -  * Debugger PIN: 686-559-611
+2025-01-24 21:13:51,411 - ERROR - Database error: When initializing mapper Mapper[Category(category)], expression 'Report' failed to locate a name ('Report'). If this is a class name, consider adding this relationship() to the <class 'Model.Category.Category'> class after both dependent classes have been defined.
+2025-01-24 21:13:51,412 - INFO - 127.0.0.1 - - [24/Jan/2025 21:13:51] "[35m[1mPOST /detectObjects HTTP/1.1[0m" 500 -
+2025-01-24 21:13:58,894 - ERROR - Database error: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Category(category)]'. Original exception was: When initializing mapper Mapper[Category(category)], expression 'Report' failed to locate a name ('Report'). If this is a class name, consider adding this relationship() to the <class 'Model.Category.Category'> class after both dependent classes have been defined.
+2025-01-24 21:13:58,895 - INFO - 127.0.0.1 - - [24/Jan/2025 21:13:58] "[35m[1mPOST /detectObjects HTTP/1.1[0m" 500 -
+2025-01-24 21:16:02,080 - ERROR - Database error: One or more mappers failed to initialize - can't proceed with initialization of other mappers. Triggering mapper: 'Mapper[Category(category)]'. Original exception was: When initializing mapper Mapper[Category(category)], expression 'Report' failed to locate a name ('Report'). If this is a class name, consider adding this relationship() to the <class 'Model.Category.Category'> class after both dependent classes have been defined.
+2025-01-24 21:16:02,081 - INFO - 127.0.0.1 - - [24/Jan/2025 21:16:02] "[35m[1mPOST /detectObjects HTTP/1.1[0m" 500 -
+2025-01-24 21:18:26,711 - INFO -  * Detected change in 'C:\\Users\\PROFESSIONAL\\PycharmProjects\\BackEnd\\Model\\TrashItems.py', reloading
+2025-01-24 21:18:28,835 - INFO -  * Restarting with stat
+2025-01-24 21:18:42,849 - WARNING -  * Debugger is active!
+2025-01-24 21:18:42,857 - INFO -  * Debugger PIN: 686-559-611
+2025-01-24 21:18:49,913 - INFO -  * Detected change in 'C:\\Users\\PROFESSIONAL\\PycharmProjects\\BackEnd\\Controller\\DetectionController.py', reloading
+2025-01-24 21:18:52,002 - INFO -  * Restarting with stat

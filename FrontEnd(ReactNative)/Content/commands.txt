@@ -1,0 +1,7 @@
+npx react-native run-android
+
+npx react-native start
+
+
+adb connect 192.168.10.5:5555
+adb devices
